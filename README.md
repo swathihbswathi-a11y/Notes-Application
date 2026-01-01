@@ -1,6 +1,6 @@
 # 📝 Notes Application in Java
 
-A simple console-based **Notes Application** built using Java that supports **CRUD operations**, **file storage**, **timestamps**, and **keyword search**. This project is perfect for beginners who want to learn core Java concepts including OOP, ArrayList, File Handling, and LocalDateTime.
+A simple console-based **Notes Application** built using Java that supports **CRUD operations**, **file storage**, **timestamps**, and **keyword search**. This project is including OOP, ArrayList, File Handling, and LocalDateTime.
 
 ---
 
@@ -54,8 +54,8 @@ A notes.txt file will be automatically created to store notes.
 
 ## 🔍 Sample File Storage Format
 ```ruby
-1::Buy groceries::25-12-2025 19:20:45
-2::Finish Java project::25-12-2025 19:25:10
+1::Buy groceries::25-11-2025 19:20:45
+2::Finish Java project::25-11-2025 19:25:10
 ```
 
 ## 🏗 Future Improvements 
